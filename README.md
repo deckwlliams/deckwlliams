@@ -1,12 +1,18 @@
-# 👋 Olá! Eu sou o Derick
+# 👋 Olá! Eu sou o Derick Williams
 
 👨‍💻 Desenvolvedor Backend Júnior  
-🛠 Java | Spring Boot | APIs REST | SQL  
-📚 Estudando Docker e boas práticas de arquitetura
+🎓 Técnico em Informática pela FIEB  
+🛠 Tecnologias: Java | Spring Boot | APIs REST | SQL  
+📚 Estudando: Docker, boas práticas e arquitetura de software
+
+Sou focado em aprender através de projetos práticos, aplicando conceitos de backend,
+organização de código e desenvolvimento de APIs.
 
 ## 🚀 Projetos em destaque
-- Estudo_API
-- Estudos-de-Java
-- Estudo_mysql
+- 🔹 Estudo_API – API REST para estudos com Java e Spring Boot  
+- 🔹 Estudos-de-Java – Exercícios e fundamentos da linguagem Java  
+- 🔹 Estudo_mysql – Conceitos e práticas com banco de dados SQL  
 
-📫 LinkedIn: https://linkedin.com/in/seu-linkedin
+## 📫 Onde me encontrar
+- LinkedIn: https://www.linkedin.com/
+- GitHub: https://github.com/deckwlliams
