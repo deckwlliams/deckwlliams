@@ -3,6 +3,7 @@
 👨‍💻 Desenvolvedor Backend Júnior  
 🎓 Técnico em Informática pela FIEB  
 🛠 Tecnologias: Java | Spring Boot | APIs REST | SQL | Postrgresql | Docker
+
 📚 Estudando: Docker, boas práticas, arquitetura de software e segurança
 
 Sou focado em aprender através de projetos práticos, aplicando conceitos de backend,
