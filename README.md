@@ -1,114 +1,117 @@
 <div align="center">
 
-<img src="./assets/banner-pixel.png" width="100%" alt="Banner pixel art">
-
-<br>
+<img src="./assets/banner-pixel.png" width="100%" alt="Pixel Banner">
 
 # 👋 Olá, eu sou Derick Williams
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack;Java+%7C+Spring+Boot;React+%7C+Tailwind+CSS;SwiftUI+%7C+iOS;Transformando+ideias+em+c%C3%B3digo"
-  alt="Texto animado"
-/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot;React+%7C+TailwindCSS;SwiftUI+%7C+iOS;Criando+Landing+Pages+de+Alta+Convers%C3%A3o" />
 
-<br><br>
-
-<img
-  src="https://komarev.com/ghpvc/?username=deckwlliams&style=for-the-badge&color=0e75b6"
-  alt="Visualizações do perfil"
-/>
+<p>
+<a href="https://github.com/deckwlliams">
+<img src="https://komarev.com/ghpvc/?username=deckwlliams&style=for-the-badge&color=0e75b6"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-💻 Desenvolvedor Full Stack em constante evolução.
+💻 Desenvolvedor Full Stack
 
 🎯 Apaixonado por criar aplicações modernas, landing pages e interfaces intuitivas.
 
-📚 Atualmente estudando desenvolvimento backend, frontend e mobile.
+📚 Sempre estudando novas tecnologias.
 
-⚡ Principais focos:
+⚡ Atualmente focado em:
 
-- Java e Spring Boot
-- React e Tailwind CSS
+- Java
+- Spring Boot
+- React
+- Tailwind CSS
 - SwiftUI
-- APIs REST
 - Inteligência Artificial
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠 Tecnologias
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,tailwind,mysql,git,github,python,vscode,figma,swift"
-  alt="Tecnologias"
-/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css,tailwind,nodejs,mysql,git,github,python,vscode,figma,swift"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+# 📊 Estatísticas
 
 <div align="center">
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=deckwlliams&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
-  alt="Estatísticas do GitHub"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deckwlliams&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckwlliams&layout=compact&theme=tokyonight&hide_border=true"
-  alt="Linguagens mais usadas"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deckwlliams&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-## 🐍 Minhas contribuições
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/deckwlliams/deckwlliams/output/github-contribution-grid-snake-dark.svg"
-  alt="Animação das contribuições"
-/>
-
-</div>
 ---
 
-## 🚀 Projetos em destaque
+# 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deckwlliams&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deckwlliams&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 🐍 Snake Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🚀 Projetos em destaque
 
 | Projeto | Tecnologias |
-|---|---|
-| 💰 Projeto Fintech | HTML, Tailwind CSS e JavaScript |
-| ☕ API de produtos | Java, Spring Boot e MySQL |
-| 📱 Aplicativos iOS | Swift e SwiftUI |
-| 🌐 Portfólio pessoal | React e Tailwind CSS |
-| 🎯 Landing pages | React, Tailwind CSS e Lovable |
+|----------|-------------|
+| 🌐 Landing Pages | React • Tailwind |
+| ☕ APIs REST | Java • Spring Boot |
+| 📱 Aplicativos iOS | SwiftUI |
+| 💼 Portfólio | React |
 
 ---
 
-## 🌎 Contato
+# 🌎 Contato
 
 <div align="center">
 
 <a href="https://github.com/deckwlliams">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="COLOQUE-SEU-LINKEDIN-AQUI">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://portifolio-beta-one-71.vercel.app/">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </div>
@@ -119,6 +122,6 @@
 
 ### 💙 Obrigado pela visita!
 
-**Transformando ideias em código.**
+"Transformando ideias em código."
 
 </div>
