@@ -71,6 +71,16 @@
 
 </div>
 
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/deckwlliams/deckwlliams/output/github-contribution-grid-snake-dark.svg"
+  alt="Animação das contribuições"
+/>
+
+</div>
 ---
 
 ## 🚀 Projetos em destaque
