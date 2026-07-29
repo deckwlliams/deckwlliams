@@ -74,15 +74,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=deckwlliams&
 
 ---
 
-# 🏆 Conquistas
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deckwlliams&theme=radical&no-frame=true&column=6"/>
-
-</div>
-
----
 
 # 🐍 Snake Animation
 
