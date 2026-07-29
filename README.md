@@ -78,7 +78,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=deckwlliams&
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deckwlliams&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=deckwlliams&theme=radical&no-frame=true&column=6"/>
 
 </div>
 
